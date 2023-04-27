@@ -1,0 +1,10 @@
+Example: Write a Bash script that installs the latest version of a Node.js package globally, and checks if it's already installed before running the installation.
+
+<!--
+Run scripts with Node.js: node
+Install and manage Node.js packages with npm or yarn
+Write a script that parses a log file and extracts useful data.
+Write a script that analyzes a package.json file and lists all dependencies and their versions.
+Write a script that automates the setup of a new Node.js project.
+
+ -->

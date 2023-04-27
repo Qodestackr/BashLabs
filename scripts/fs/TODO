@@ -1,0 +1,3 @@
+Create a backup script that compresses and copies a directory to a backup location.
+Write a script that renames all files in a directory with a specific pattern.
+Write a script that finds and deletes all empty directories in a directory tree.

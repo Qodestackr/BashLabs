@@ -1,0 +1,6 @@
+Example: Write a Bash script that pings a list of servers, and outputs the ones that are online to a file.
+
+<!-- Write a script that pings a list of IP addresses and reports the status.
+Write a script that downloads a file from a given URL.
+Write a script that monitors a server's disk usage and sends an alert if it exceeds a threshold.
+ -->

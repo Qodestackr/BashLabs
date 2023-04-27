@@ -1,0 +1,4 @@
+Example: Write a Bash script that builds a Docker image from a Dockerfile, runs a container from the image, and outputs the container's logs to a file.
+
+<!-- Write a script that starts a Docker container with a specific configuration.
+Write a script that deploys a Dockerized application to a remote server using Docker Compose. -->

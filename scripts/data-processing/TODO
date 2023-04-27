@@ -1,0 +1,7 @@
+Manipulate and transform data with text processing tools: awk, sed, cut
+Join, merge, or aggregate data with SQL-like commands: join, sort, uniq
+Example: Write a Bash script that reads a CSV file, calculates some statistics on its columns, and outputs the results to a new CSV file.
+
+<!-- Write a script that extracts data from a CSV file and performs calculations on it.
+Write a script that converts a JSON file to a CSV file.
+ -->
